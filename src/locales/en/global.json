@@ -1,0 +1,64 @@
+{
+    "Menu_Home" : "Home",
+    "Menu_About" : "About",
+    "Menu_Courses" : "RoadMap",
+
+    "Btn_Register" : "Register",
+    "Btn_Login" : "Login",
+    "Btn_Read" : "Read More",
+    "Btn_Buy" : "Buy now",
+
+    "Footer_Rights" : "NFT-DOT © 2022. All rights reserved",
+
+    "Hero_Title" : "Multiply your chances of winning with",
+    "Hero_Text" : "It is not enough to allow people to get to know the world of cryptocurrencies, but also to provide them with a safe and reliable service",
+
+    "About_Text_01" : "Technological progress is inevitable. Thanks to the development of the Internet, as well as its continuous improvements, remote connectivity has allowed the growth and reinvention of areas with an outstanding social impact. Such is the case, first and foremost, of telecommunications, in addition to other areas that have also been transformed by these new technologies.",
+    "About_Text_01_b" : "Only a decade ago, the term blockchain or cryptocurrency did not appear in our vocabulary. And much less the rest of the terms that, day by day, gain more relevance in the different news spaces, especially in the financial field.",
+    "About_Text_02" : "With the consolidation of this field, cryptocurrencies have attracted the attention of various sectors of the public, and those who have managed to identify the different peaks or “waves” of greater development and attraction of customers for the use of this technology, assure that 2022 is also an excellent time to join this new wave of cryptocurrencies.",
+
+    "About_Text_02_b": "But first, it isn’t enough to allow people to get to know the world of cryptocurrencies, but also to provide them with a secure and reliable service. That is the goal of the Token_NFT project. A project that works as a bridge and connects people's interest with real knowledge through a reliable website. ",
+
+    "Tokens_Text_01" : "With a total supply of 100M, and distributed in a planned manner in specific rounds with the following characteristics",
+    "Tokens_Text_02" : "is one of the most robust tokens in the market.",
+
+    "Buy_Title" : "Buy it now! ",
+    "Buy_Text" : "Thanks to its flexible and constantly improving nature, NFT-DOT allows and encourages the participation of all members of its community to debate, propose and agree on every change within the general protocol.<br><br>In addition, our NFT-DOT listing pertains to one of the four aspects that make up risk control. The other aspects are liquid innovation, the oracle and the risk reserve. And working together they turn this platform into a solid trading system.",
+
+    "Courses_Title" :"at maximum!",
+    "Courses_Subtitle" :"To get the most out of our NFT-DOT, we have strategically distributed it over the following rounds:",
+    "Courses_Text" :"A token generation event (TGE) is a time-limited business and technical event that involves the technical generation of the token on a blockchain-based network, and its release to the market, usually in the form of a public sale, private sale or initial coin offering (ICO).*",
+
+    "Courses_Title_01" :"Seed Round",
+    "Courses_Subtitle_01" :"Allocation of 6%. Initial circulation of 300,000 and a total token amount of 6,000,000 at 5% at the TGE, and a quarterly vesting at 10%. ",
+
+    "Courses_Title_02" :"Private Round",
+    "Courses_Subtitle_02" :"Allocation at 3%. With an initial circulation of 300,000 and a total of 3,000,000 tokens with 10% at the TGE, and a quarterly vesting at 15%.",
+
+    "Courses_Title_03" :"IDO",
+    "Courses_Subtitle_03" :"Allocation of 1%. With an initial circulation of 1,000,000 and the same amount of token, with 100% at the TGE. In this case, the community must complete the assignment on social media to conclude the list. ",
+
+    "Courses_Title_04" :"Auction",
+    "Courses_Subtitle_04" :"Allocation of 2%. Initial circulation of 2,000,000 and the same amount of tokens with 100% at the TGE. All unsold tokens become part of another Ecosystem.",
+
+    "Courses_Title_05" :"Team",
+    "Courses_Subtitle_05" :"Allocation of 15% and a total token amount of 15,000,000, it also has 15% after half a year at the TGE and a quarterly acquisition of 10%.",
+
+    "Courses_Title_06" :"VC Round",
+    "Courses_Subtitle_06" :"Allocation of 9% and a total token amount of 9,000,000.",
+
+    "Courses_Title_07" :"Ecosystem",
+    "Courses_Subtitle_07" :"Allocation of 15%. Initial circulation of 750,00 and a total amount of 15,000,000 tokens. 5% at the TGE. Used for project development, operations, marketing, etc.",
+
+    "Courses_Title_08" :"Strategic reserve",
+    "Courses_Subtitle_08" :"Allocation of 6% and a total token amount of 6,000,0000, functions as a potential reserve for the acquisition of other projects in the medium and long term.",
+
+    "Courses_Title_09" :"Airdrop",
+    "Courses_Subtitle_09" :"Allocation of 3%. Initial circulation of 300,000 and a total of 3,000,000 tokens is used in a crucial phase of development. Such is the case of an upgrade or the launch of a new product.",
+
+    "Courses_Title_10" :"Liquidity Mining",
+    "Courses_Subtitle_10" :"Allocation of 40% and a total amount of 40,000,000 tokens. In this round or phase, a liquidity result is projected for a period of 4 years. And the overall mining process will be divided into stages."
+
+
+
+}

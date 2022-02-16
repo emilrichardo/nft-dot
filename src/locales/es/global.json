@@ -1,0 +1,70 @@
+{
+    "Menu_Home" : "Inicio",
+    "Menu_About" : "Nosotros",
+    "Menu_Courses" : "RoadMap",
+
+    "Btn_Register" : "Registrarse",
+    "Btn_Login" : "Login",
+    "Btn_Read" : "Leer Más",
+    "Btn_Buy" : "Comprar",
+
+    "Footer_Rights" : "NFT-DOT © 2022. Todos los derechos reservados",
+
+    "Hero_Title" : "Multiplica tus oportunidades de ganar con",
+    "Hero_Text" : "No basta con permitir que la gente se acerque a conocer el mundo de las criptomonedas, sino también brindarles un servicio seguro y confiable",
+
+    "About_Text_01" : "El avance tecnológico es inevitable. Gracias al desarrollo de Internet, así como sus continuas mejoras, la conectividad remota ha permitido el crecimiento y la reinvención de ámbitos con un impacto social destacado. Tal es el caso; en primera instancia, de las telecomunicaciones además de otras áreas que también han sido transformadas por estas nuevas tecnologías.",
+    "About_Text_01_b": "Hasta hace poco más de 10 años, el término blockchain o criptomoneda no aparecía en nuestro vocabulario. Y mucho menos el resto de los términos que, día con día, cobran mayor relevancia en los diferentes espacios de noticias, sobre todo en el ámbito financiero. ",
+
+    "About_Text_02" : "Con el transcurso del tiempo, y la consolidación de este ámbito, las criptomonedas han llamado la atención de diversos sectores del público, y quienes han logrado identificar los distintos picos u “olas” de mayor desarrollo y captación de clientes para el uso de esta tecnología, aseguran que este 2022 también es un momento excelente para integrarse a esta nueva ola de criptomonedas.",
+    "About_Text_02_b" : "Pero no basta con permitir que la gente se acerque a conocer el mundo de las criptomonedas, sino también brindarles un servicio seguro y confiable. Ese es el objetivo del proyecto Token_NFT. Un proyecto que funcione como un puente y conecte ese interés de las personas con un conocimiento real a través de un website confiable.",
+
+    "Tokens_Text_01" : "Con un suministro total del 100M, y distribuido de forma planeada en rondas concretas con las siguientes características",
+    "Tokens_Text_02" : "es uno de los tokens más sólidos.",
+
+    "Buy_Title" : "Cómpralo aquí",
+    "Buy_Text" : "Gracias a su naturaleza flexible y en constante mejora, NFT-DOT permite y alienta la participación de todos los miembros de su comunidad para que debatan, propongan y acuerden cada uno de los cambios al interior del protocolo general.<br><br>Además, nuestro listado de NFT-DOT pertenece a uno de los cuatro aspectos que integran el control de riesgo. Los otros aspectos son liquidación, el oráculo y la reserva de riesgo. Y al trabajar juntos convierten esta plataforma en un sistema de operaciones sólido.",
+
+    "Courses_Title" :"al máximo!",
+    "Courses_Subtitle" : "Para aprovechar al máximo nuestro NFT-DOT, lo hemos distribuido de forma estratégica en las siguientes rondas:",
+    "Courses_Text" :"Un evento de generación de tokens (TGE) es un acto empresarial y técnico de duración limitada que implica la generación técnica del token en una red basada en blockchain, y su lanzamiento al mercado, normalmente en forma de venta pública, venta privada u oferta inicial de monedas (ICO).*",
+
+
+    "Courses_Title_01" :"Primer Ronda",
+    "Courses_Subtitle_01" :"Asignación del 6%. Circulación inicial de 300,000 y una cantidad total de token de 6,000,000 al 5 % en el TGE, y una adquisición trimestral de derechos al 10 %.",
+
+
+    "Courses_Title_02" : "Ronda Privada",
+    "Courses_Subtitle_02" :"Asignación al 3%. Con una circulación inicial de 300,000 y un total de 3,000,000 de token con 10 % en el TGE, y una adquisición trimestral de derechos al 15%.",
+
+
+    "Courses_Title_03" :"IDO",
+    "Courses_Subtitle_03" :"Asignación del 1%. Con una circulación inicial de 1,000,000 y la misma cantidad de token, con el 100 % en el TGE. En este caso, la comunidad debe completar la tarea en los medios sociales para concluir la lista.",
+
+
+    "Courses_Title_04" :"Ronda de Subasta",
+    "Courses_Subtitle_04" :"Asignación del 2%. Circulación inicial de 2,000,000 y la misma cantidad de token con el 100 % en el TGE. Todos los token que no sean vendidos, pasan a formar parte de otro Ecosystem.",
+
+    "Courses_Title_05" :"Ronda de Equipo",
+    "Courses_Subtitle_05" :"Asignación del 15% y una cantidad total de token de 15,000,000, cuenta también con el 15%, luego del medio año en el TGE y una adquisición trimestral del 10%.",
+
+
+    "Courses_Title_06" :"Ronda VC",
+    "Courses_Subtitle_06" :"Asignación del 9% y una cantidad total de token de 9,000,000.",
+
+    "Courses_Title_07" :"Ecosystem",
+    "Courses_Subtitle_07" :"Asignación del 15 %. Circulación inicial de 750,00 y una cantidad total de 15,000,000 de token. El 5% en el TGE. Usado para el desarrollo de proyectos, operaciones, marketing, etc.",
+
+
+    "Courses_Title_08" :"Reserva estratégica",
+    "Courses_Subtitle_08" :"Asignación del 6% y una cantidad total de token de 6,000,0000, funciona como una reserva potencial para la adquisición de otros proyectos en el mediano y largo plazo. ",
+
+
+    "Courses_Title_09" :"Airdrop",
+    "Courses_Subtitle_09" :"Asignación del 3%. Circulación inicial de 300,000 y un total de 3,000,000 de token, se utiliza en una fase crucial del desarrollo. Tal es el caso de una actualización o el lanzamiento de un nuevo producto.",
+
+
+    "Courses_Title_10" :"Liquidity Mining",
+    "Courses_Subtitle_10" :"Asignación del 40% y una cantidad total de 40,000,000 de token. En esta ronda o fase, se proyecta un resultado de la liquidez durante un periodo de 4 años. Y el proceso global de minería se dividirá en etapas."
+
+}

@@ -1,0 +1,191 @@
+/* ============================================== */
+/* LANGUAGE */
+/* ============================================== */
+
+a.language{
+  display: block;
+  float: left;
+  padding: 10px;
+  width: auto;
+}
+
+/* ============================================== */
+/* NAVIGATION */
+/* ============================================== */
+
+.navigation{
+  display: block;
+  width: 100%;
+  position: fixed;
+  padding: 30px 0 20px 0;
+  z-index: 9999;
+  background: rgba(11,22,24,0);
+}
+
+.navigation.actives{
+  padding: 10px 0 10px 0;
+  background: rgba(11,22,24,0.7);
+}
+
+.navigation > div{
+  display: flex;
+  max-width: 1440px;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.navigation li{
+  display: block;
+  float: left;
+}
+
+.navigation li a{
+  display: block;
+  float: left;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
+
+.navigation li a,
+a.language{
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--color-white);
+  cursor: pointer;
+
+}
+
+[aria-current="page"]{
+  color:var(--color-secondary)!important;
+}
+
+
+
+.navigation.actives li.active a,
+.navigation li.active a,
+.navigation li a:hover{ color:var(--color-secondary); }
+
+@media screen and (max-width: 1440px){
+  .navigation > div{
+    padding: 0 30px;
+  }
+}
+
+@media screen and (max-width: 1280px){
+  .navigation,
+  .navigation.actives{
+    padding: 0 20px;
+  }
+  .navigation > div{
+    padding: 0;
+  }
+
+  .navigation li{
+    width: 100%;
+  }
+  .navigation li a{
+    font-size: 18px;
+  }
+  .navigation ul{
+    position: fixed;
+    max-width: 400px;
+    width: 100%;
+    position: absolute;
+    top:0;
+    padding: 80px 40px 20px 40px;
+    right: -400px;
+    height: 100vh;
+    background: rgba(0,0,0,0.9);
+  }
+
+  .navigation ul.active{
+    right: 0;
+  }
+}
+
+/* ============================================== */
+/* BODY */
+/* ============================================== */
+
+body.active{
+  overflow-y:hidden;
+  position: relative;
+}
+
+/* ============================================== */
+/* LOGO */
+/* ============================================== */
+
+.wrapper-logo{
+  display: flex;
+  align-items: center;
+}
+
+a.logo img{
+  width: 130px;
+  margin-right: 20px;
+}
+
+a.logo{
+  overflow: hidden;
+  display: block;
+}
+
+@media screen and (max-width: 1280px){
+  a.logo img{
+    width: 100px;
+  }
+}
+
+/* ============================================== */
+/* HAMBURGUER */
+/* ============================================== */
+
+.hamburguer{
+  display: none;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  z-index: 999;
+}
+
+.hamburguer:hover{
+  cursor: pointer;
+}
+
+.hamburguer span{
+  position: absolute;
+  left: 15%;
+  width: 70%;
+  height: 3px;
+  background: var(--color-secondary);
+  display: block;
+}
+
+.hamburguer span:nth-child(1){top:17px;}
+.hamburguer span:nth-child(2){top:24px;}
+.hamburguer span:nth-child(3){top:31px;}
+
+.hamburguer.active span:nth-child(1){transform: rotate(135deg);top:24px;}
+.hamburguer.active span:nth-child(2){opacity: 0;width: 0;left: 50%;}
+.hamburguer.active span:nth-child(3){transform: rotate(-135deg);top:24px;}
+
+@media screen and (max-width: 1280px){
+  .hamburguer{
+    display: block;
+  }
+}
+
+.navigation,
+.hamburguer span,
+.navigation ul,
+.navigation li a{
+  -webkit-transition:all 250ms ease;
+  -moz-transition:all 250ms ease;
+  -ms-transition:all 250ms ease;
+  transition:all 250ms ease;
+}

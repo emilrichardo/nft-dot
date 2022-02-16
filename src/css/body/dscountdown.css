@@ -1,0 +1,82 @@
+/* ============================================== */
+/* CLOCK */
+/* ============================================== */
+
+
+.dsCountDown:after{
+	content:'';
+    clear: both;
+}
+
+.dsCountDown{
+    display:inline-block;
+	*display: inline;
+    zoom: 1;
+}
+
+.demo1{
+	display: block;
+	float: left;
+	width: 100%;
+	overflow: hidden;
+}
+
+/* ------------------------- White Theme ------------------------- */
+
+.dsCountDown.ds-white {
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.ds-white .ds-element {
+	float: left;
+	margin:0;
+	width: 100%;
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+
+.ds-white .ds-element-title {
+	font-size: 18px;
+	text-align: center;
+}
+
+.ds-white .ds-element-value {
+	font-size: 50px;
+	line-height: 50px;
+	font-weight: bold;
+	color: var(--color-secondary);
+}
+
+.ds-white .ds-element-title,
+.ds-white .ds-element-value{
+	display: block;
+	float: left;
+	width: 100%;
+}
+
+@media screen and (max-width: 1280px){
+	.ds-white .ds-element-title {
+		font-size: 16px;
+	}
+
+	.ds-white .ds-element-value {
+		font-size: 20px;
+		line-height: 32px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.ds-white .ds-element-title {
+		font-size: 14px;
+	}
+
+	.ds-white .ds-element-value {
+		font-size: 28px;
+		line-height: 40px;
+	}
+}
+
